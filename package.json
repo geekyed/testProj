@@ -1,0 +1,12 @@
+{
+  "name": "test-proj",
+  "version": "0.0.1",
+  "description": "foo",
+  "main": "index.js",
+  "author": "me",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^2.0.0",
+    "uuid": "^8.3.2"
+  }
+}
